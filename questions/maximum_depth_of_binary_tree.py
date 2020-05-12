@@ -27,7 +27,7 @@ def maxDepth(root: TreeNode) -> int:
     # queue.append((root, 1))
     # for pair in queue:
     
-    # Recursive   
+    # Recursive    
     # if root == None: 
     #     return 0
     # return 1 + max(maxDepth(root.left), maxDepth(root.right))
